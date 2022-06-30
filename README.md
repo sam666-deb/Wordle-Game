@@ -1,2 +1,2 @@
 # Wordle-Game
-## Guess the word ant win
+## Guess the word and win
